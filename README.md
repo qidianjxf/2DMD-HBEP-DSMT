@@ -2,7 +2,7 @@
 Open code and data for NCOMMS-25-69547
 
 The code of 2DMD-HBEP-DSMT, which needs importing netsquid. RL, FR, BD, HD, QR and CF are set in lines 42, 825, 41, 53, 38 and 50, respectively. 
-  2DMD-HBEP-DSMT.py
+--2DMD-HBEP-DSMT.py
 
 The configure files of CF.
   fidelity_configure_32_0.85.txt
